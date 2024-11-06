@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.AssemblyInfo.cs
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\bin\Debug\net7.0\AtmRepository.deps.json
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\bin\Debug\net7.0\AtmRepository.dll
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\bin\Debug\net7.0\AtmRepository.pdb
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\bin\Debug\net7.0\AtmModels.dll
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\bin\Debug\net7.0\AtmModels.pdb
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.csproj.CopyComplete
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.dll
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\refint\AtmRepository.dll
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\AtmRepository.pdb
+C:\Users\bruno\source\repos\AtmProject\AtmRepository\obj\Debug\net7.0\ref\AtmRepository.dll
